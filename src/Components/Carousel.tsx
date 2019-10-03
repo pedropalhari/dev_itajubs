@@ -85,7 +85,12 @@ export default function Carousel() {
         {subEventList.map(event => (
           <Card event={event} />
         ))}
-        <CarouselButton shouldShow={!(carouselIndex == carouselIndexEnd)} onClick={carouselRight}>{">"}</CarouselButton>
+        <CarouselButton
+          shouldShow={!(carouselIndex == carouselIndexEnd)}
+          onClick={carouselRight}
+        >
+          {">"}
+        </CarouselButton>
       </div>
     </div>
   );
@@ -202,7 +207,7 @@ function Card(props: CardProps) {
             fontSize: 18
           }}
         >
-          QUERO IR
+          {props.event.done ? "IH, JÁ FOI" : "QUERO IR"}
         </code>
       </div>
     </div>
