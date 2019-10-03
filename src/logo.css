@@ -1,0 +1,24 @@
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.line {
+  animation: leaves 2s forwards;
+  width: 1px;
+  height: 4px;
+  background-color: #272121;
+}
+
+@keyframes leaves {
+  from {
+    width: 1px;
+  }
+  to {
+    width: 550px;
+  }
+}
