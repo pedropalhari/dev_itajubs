@@ -7,7 +7,7 @@ export default function Infobar() {
         display: "flex",
         justifyContent: "space-around",
         alignItems: "center",
-        width: 900,
+        width: 1000,
         height: 100,
         backgroundColor: "#272121"
       }}

@@ -1,5 +1,15 @@
 import React from "react";
 
+function VirtualDOM(dom: {
+  [index: string]: EventTarget;
+  performance: EventTarget;
+  nameFocused: EventTarget;
+}) {
+
+  // F*CK REACT
+  delete dom.performance;
+}
+
 export default function Proposal() {
   return (
     <div
@@ -8,7 +18,7 @@ export default function Proposal() {
         justifyContent: "center",
         alignItems: "flex-start",
         flexDirection: "column",
-        width: 900,
+        width: 1000,
         paddingTop: 100
       }}
     >
