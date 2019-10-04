@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.518aec17.chunk.css",
+    "main.js": "/static/js/main.4b1b719b.chunk.js",
+    "main.js.map": "/static/js/main.4b1b719b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c18e45fe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c18e45fe.js.map",
+    "static/js/2.a6d4a2d2.chunk.js": "/static/js/2.a6d4a2d2.chunk.js",
+    "static/js/2.a6d4a2d2.chunk.js.map": "/static/js/2.a6d4a2d2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5c02299913cacc23250c1ec5a2c6808f.js": "/precache-manifest.5c02299913cacc23250c1ec5a2c6808f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.518aec17.chunk.css.map": "/static/css/main.518aec17.chunk.css.map",
+    "static/media/danilo.jpeg": "/static/media/danilo.6d54197a.jpeg",
+    "static/media/graphql.jpg": "/static/media/graphql.49b86579.jpg",
+    "static/media/gui_marques.png": "/static/media/gui_marques.7616c905.png",
+    "static/media/nginx.png": "/static/media/nginx.ebb668c3.png",
+    "static/media/pedro_palhari.jpg": "/static/media/pedro_palhari.b015aabf.jpg",
+    "static/media/react.png": "/static/media/react.cba0b89d.png",
+    "static/media/react_shit.png": "/static/media/react_shit.aae54b74.png",
+    "static/media/roriz.jpeg": "/static/media/roriz.cf5f5198.jpeg",
+    "static/media/the-day.jpeg": "/static/media/the-day.ca95aaf4.jpeg"
+  }
+}
